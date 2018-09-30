@@ -1,7 +1,7 @@
 {
-  "name": "vue-login",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "name": "whodidyoumeet",
+  "version": "0.1.0",
+  "description": "Consolidates information on network",
   "author": "Rune Lykke-Kjeldsen <rune@lykke-kjeldsen.dk>",
   "private": true,
   "scripts": {
