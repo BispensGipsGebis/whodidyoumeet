@@ -9,12 +9,12 @@ Vue.config.productionTip = false
 
 let app;
 var config = {
-  apiKey: "AIzaSyCDsqfKhnrNsoWbTKshccD8EeOrANFqXBc",
-  authDomain: "vue-login-7d9b2.firebaseapp.com",
-  databaseURL: "https://vue-login-7d9b2.firebaseio.com",
-  projectId: "vue-login-7d9b2",
-  storageBucket: "vue-login-7d9b2.appspot.com",
-  messagingSenderId: "531090609527"
+  apiKey: "AIzaSyC-DkQ4JGe_lmujhGhrcU5zAklgBOQL4tM",
+    authDomain: "whodidyoumeet-e37fb.firebaseapp.com",
+    databaseURL: "https://whodidyoumeet-e37fb.firebaseio.com",
+    projectId: "whodidyoumeet-e37fb",
+    storageBucket: "whodidyoumeet-e37fb.appspot.com",
+    messagingSenderId: "75685996164"
 };
 
 firebase.initializeApp(config);
