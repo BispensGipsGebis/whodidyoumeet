@@ -7,6 +7,11 @@ import firebase from 'firebase'
 
 Vue.config.productionTip = false
 
+import VueMaterial from 'vue-material'
+import 'vue-material/dist/vue-material.min.css'
+
+Vue.use(VueMaterial)
+
 let app;
 var config = {
   apiKey: "AIzaSyC-DkQ4JGe_lmujhGhrcU5zAklgBOQL4tM",
